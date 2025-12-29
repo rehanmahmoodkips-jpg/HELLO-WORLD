@@ -1,2 +1,2 @@
-# HELLO-WORLD
+# hello.cpp
 My first repository ever.
